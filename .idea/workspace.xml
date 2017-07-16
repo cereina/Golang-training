@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20e63333-c962-4e5d-a4ed-ac7cae952958" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01-package-scope/main.go" afterPath="$PROJECT_DIR$/01-package-scope/main.go" />
     </list>
@@ -36,8 +37,8 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-package-scope/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="175">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -62,8 +63,8 @@
       <list>
         <option value="$PROJECT_DIR$/mm/main.go" />
         <option value="$PROJECT_DIR$/helloWorld/main.go" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/01-package-scope/main.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -259,7 +260,7 @@
       <workItem from="1499398171179" duration="2269000" />
       <workItem from="1499400490924" duration="742000" />
       <workItem from="1499404100815" duration="1209000" />
-      <workItem from="1500239687233" duration="386000" />
+      <workItem from="1500239687233" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="ADD FILE 01-PACKAGE-SCOPE">
       <created>1500239747807</created>
@@ -268,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500239747807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADD FILE 01-PACKAGE-SCOPE">
+      <created>1500240081360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500240081360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -289,7 +297,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9787000" />
+    <option name="totallyTimeSpent" value="10119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-package-scope/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="175">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>

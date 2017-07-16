@@ -230,7 +230,7 @@
       <updated>1499405991764</updated>
       <workItem from="1499405996401" duration="1637000" />
       <workItem from="1500181995735" duration="906000" />
-      <workItem from="1500182945702" duration="1157000" />
+      <workItem from="1500182945702" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="ADD FILE SAMAH">
       <created>1500183559591</created>
@@ -260,11 +260,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500184108325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update main.go File">
+      <created>1500184134232</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500184134232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3700000" />
+    <option name="totallyTimeSpent" value="3747000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,7 +316,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="ADD FILE SAMAH" />
     <MESSAGE value="ADD FILE HI" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD FILE HI" />
+    <MESSAGE value="Update main.go File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update main.go File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

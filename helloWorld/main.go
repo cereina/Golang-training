@@ -3,7 +3,13 @@ package main
 import "fmt"
 
 func main()  {
-	fmt.Println("Hello World")
-	fmt.Println("Hello Mazen")
-	fmt.Println("Hello Cereina")
+
+	a := "Mazen"
+	b := 5
+	d := false
+
+	fmt.Printf("%v \n", a)
+	fmt.Printf("%v \n", b)
+	fmt.Printf("%v \n", d)
+
 }

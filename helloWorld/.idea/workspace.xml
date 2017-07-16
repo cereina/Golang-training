@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b955a2ec-ab24-49d6-a68d-c52c0a51004d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -231,7 +230,7 @@
       <updated>1499405991764</updated>
       <workItem from="1499405996401" duration="1637000" />
       <workItem from="1500181995735" duration="906000" />
-      <workItem from="1500182945702" duration="1146000" />
+      <workItem from="1500182945702" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="ADD FILE SAMAH">
       <created>1500183559591</created>
@@ -254,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500184017724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADD FILE HI">
+      <created>1500184108325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1500184108325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3689000" />
+    <option name="totallyTimeSpent" value="3700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

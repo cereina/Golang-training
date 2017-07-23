@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/Cereina/Golang-training/01-function/function"
+	"github.com/Cereina/Golang-training/01-function/function1"
 )
 
 var	a int = 3
@@ -28,4 +29,8 @@ func main() {
 
 	e := function.Add()
 	fmt.Println(e())
+
+
+	function1.PrintName1()
+
 }

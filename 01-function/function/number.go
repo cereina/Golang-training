@@ -1,3 +1,3 @@
 package function
 
-var number1 int = 0
+var Number1 int = 0

@@ -1,9 +1,9 @@
 package function
 
 func Add() func() int {
-	number1 = 5+1
+	Number1 = 5+1
 	return func() int {
-		return number1
+		return Number1
 	}
 
 }

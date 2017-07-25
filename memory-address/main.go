@@ -7,5 +7,12 @@ import (
 func main() {
 	a := 42
 	fmt.Println(a)
-	fmt.Println("a's memory address is ", &a)
+	fmt.Println(&a)
+	var b *int = &a
+	fmt.Println(b)
+	fmt.Println(*b)
+	*b = 43
+	fmt.Println(a)
+
+
 }
